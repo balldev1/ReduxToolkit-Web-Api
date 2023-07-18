@@ -1,4 +1,3 @@
-'use client'
 
 import { useGetAllAttractionsQuery } from '@/services/attraction'
 import { DataGrid, GridActionsCellItem } from '@mui/x-data-grid';
